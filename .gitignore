@@ -1,4 +1,9 @@
-# Environments
-*.env
+# IDE folders
 .idea/
 venv/
+
+# Others
+*.env
+*.txt
+*.bat
+*.py
