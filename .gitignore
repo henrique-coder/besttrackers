@@ -2,8 +2,11 @@
 .idea/
 venv/
 
-# Others
+# Filetypes
 *.env
-*.txt
 *.bat
 *.py
+
+# Others
+requirements.txt
+last_runtime.txt
