@@ -1,98 +1,102 @@
+udp://167.99.185.219:6969/announce
+
 udp://159.65.224.91:6969/announce
 
 udp://192.3.165.198:6969/announce
 
-udp://104.131.98.232:6969/announce
-
 http://65.130.205.148:9000/announce
-
-udp://35.227.12.84:6969/announce
 
 http://35.227.12.84:80/announce
 
-udp://216.201.9.155:6969/announce
+udp://35.227.12.84:6969/announce
 
-http://35.227.12.84/announce
+udp://35.227.12.84:1337/announce
 
 http://35.227.12.84:2710/announce
 
-udp://192.95.46.115:6969/announce
+http://35.227.12.84/announce
 
 http://207.241.226.111:6969/announce
 
-http://207.241.231.226:6969/announce
-
-udp://15.204.205.14:6969/announce
+udp://207.241.226.111:6969/announce
 
 udp://207.241.231.226:6969/announce
 
-http://34.94.213.23/announce
+http://34.94.213.23:11451/announce
 
-http://34.94.213.23:2710/announce
+udp://104.131.98.232:6969/announce
+
+udp://34.94.213.23:6969/announce
 
 udp://73.170.204.100:6969/announce
 
 udp://45.152.84.245:6969/announce
 
-http://34.94.213.23:11451/announce
+udp://216.201.9.155:6969/announce
 
-udp://207.241.226.111:6969/announce
-
-udp://34.94.213.23:6969/announce
+udp://15.204.205.14:6969/announce
 
 udp://51.81.222.188:6969/announce
-
-http://192.3.165.191:6969/announce
 
 udp://51.15.26.25:6969/announce
 
 udp://37.187.111.136:6969/announce
 
+udp://5.196.89.204:6969/announce
+
+udp://51.159.54.68:6666/announce
+
+udp://107.189.5.254:6969/announce
+
+udp://51.68.174.87:6969/announce
+
 udp://37.59.48.81:6969/announce
-
-udp://193.70.88.98:6969/announce
-
-udp://104.244.77.87:6969/announce
 
 udp://80.240.22.46:6969/announce
 
-http://49.12.76.8:8080/announce
-
 udp://49.12.76.8:8080/announce
-
-http://49.12.76.8:6961/announce
-
-http://144.76.118.107:6969/announce
 
 udp://116.202.49.58:6969/announce
 
-udp://148.251.53.72:6969/announce
+http://159.69.65.157:6969/announce
+
+http://49.12.76.8:6961/announce
 
 udp://62.233.57.13:6969/announce
 
+udp://104.244.77.87:6969/announce
+
+http://45.95.232.15:6969/announce
+
+udp://45.95.232.15:6969/announce
+
+http://95.217.167.10:6969/announce
+
+udp://185.230.4.150:1337/announce
+
 udp://193.37.214.12:6969/announce
 
-http://185.230.4.150:1337/announce
-
-udp://193.34.92.5:80/announce
+http://193.37.214.12:6969/announce
 
 udp://94.243.222.100:6969/announce
 
 udp://185.189.13.108:6969/announce
 
+udp://83.102.180.21:80/announce
+
 udp://86.57.161.157:6969/announce
 
-udp://83.102.180.21:80/announce
+http://185.230.4.150:1337/announce
 
 http://160.251.78.190:6969/announce
 
-http://46.17.46.112:8080/announce
-
 udp://46.17.46.112:8080/announce
 
-http://61.216.149.33:6969/announce
+http://211.75.29.254:6969/announce
 
-http://220.130.15.30:6969/announce
+http://46.17.46.112:8080/announce
+
+udp://61.216.149.33:6969/announce
 
 udp://5.102.159.190:6969/announce
 
@@ -102,168 +106,120 @@ udp://93.158.213.92:1337/announce
 
 udp://93.158.213.92:1337//announce
 
-http://93.158.213.92:1337/announce
-
-http://159.69.65.157:6969/announce
-
 http://93.88.129.16/announce
-
-http://193.37.214.12:6969/announce
 
 udp://82.156.24.219:6969/announce
 
-http://www.siambt.com/announce.php
+http://192.3.165.191:6969/announce
 
-https://tracker.h3o2.me:443/announce
+http://34.94.213.23:2710/announce
 
-udp://35.227.12.84:1337/announce
+http://34.94.213.23/announce
 
-udp://mail.segso.net:6969/announce
-
-udp://23.254.228.89:6969/announce
-
-udp://51.159.54.68:6666/announce
-
-http://x.paranoid.agency:6969/announce
-
-http://95.217.167.10:6969/announce
-
-udp://185.230.4.150:1337/announce
-
-http://ehtracker.org/2496841/announce
-
-http://tracker.mywaifu.best:6969/announce
-
-http://tracker.anirena.com:80/announce
-
-udp://pxnet.ru:6969/announce
-
-udp://tracker.ololosh.space:6969/announce
-
-udp://1c.premierzal.ru:6969/announce
-
-udp://tracker.tryhackx.org:6969/announce
-
-http://bt.edwardk.info:6767/announce
-
-udp://dyndns.xionxiii.ovh:6969/announce
-
-udp://v2.iperson.xyz:6969/announce
-
-http://ehtracker.org/1/announce
-
-http://211.75.29.254:6969/announce
-
-http://bt.edwardk.info:2710/announce
-
-http://irrenhaus.dyndns.dk:80/announce.php
-
-http://bt2.archive.org:6969/announce
-
-http://vps-dd0a0715.vps.ovh.net:6969/announce
-
-http://concen.org:6969/announce
-
-https://tracker.monikadesign.uk/announce/63ea34cb9815cd28d63fc75b2f2c5a56
-
-http://156.234.201.18:80/announce
-
-http://tracker.anirena.com:80/b16a15d9a238d1f59178d3614b857290/announce
-
-http://masters-tb.com/announce.php
-
-http://fe.dealclub.de:6969/announce
-
-http://bt.dl1234.com/announce
-
-https://bt.endpot.com:443/announce
-
-http://data-bg.net:80/announce
-
-http://tracker1.itzmx.com:8080/announce
-
-http://incine.ru:6969/announce
+http://207.241.231.226:6969/announce
 
 http://tracker.trancetraffic.com/announce.php
 
-UDP://TRACKER.OPENTRACKR.ORG:1337/ANNOUNCE
+http://61.216.149.33:6969/announce
 
-http://www.all4nothin.net/announce.php
-
-http://tracker.sushirave.net/announce
-
-http://www.bitseduce.com/announce.php
-
-https://t1.hloli.org:443/announce
-
-http://open.touki.ru/announce.php
-
-http://61.222.178.254:6969/announce
-
-udp://61.216.149.33:6969/announce
-
-udp://wepzone.net:6969/announce
-
-http://tracker.m-team.cc:80/announce
-
-https://tracker.lilithraws.org/announce
-
-http://www.wareztorrent.com/announce
-
-https://tracker.tamersunion.org/announce
-
-https://tracker.bt4g.com/announce
-
-http://tracker.sushirave.net:80/announce
+http://49.12.76.8:8080/announce
 
 udp://run.publictracker.xyz:6969/announce
 
-http://www.megatorrents.kg/announce.php
+udp://193.34.92.5:80/announce
 
-http://open.touki.ru:80/announce
-
-udp://retracker01-msk-virt.corbina.net:80/announce
-
-http://p4p.arenabg.com:1337/announce
+https://tracker.expli.top/announce
 
 http://www.worldboxingvideoarchive.com:80/announce.php
 
-https://zer0day.000webhostapp.com/announce
+http://torrentzilla.org/announce.php
 
-http://torrentzilla.org:80/announce.php
+http://www.all4nothin.net:80/announce.php
 
-udp://incine.ru:6969/announce
+https://tracker.imgoingto.icu/announce
 
-http://baibako.tv/announce
+http://tracker.bittor.pw:1337/announce
+
+http://www.thetradersden.org/forums/tracker/announce.php
+
+http://tracker.tfile.co/announce
+
+http://uatracker.net:80/announce
+
+https://tracker.parrotlinux.org:443/announce
+
+udp://148.251.53.72:6969/announce
+
+http://93.158.213.92:1337/announce
+
+http://bt.beatrice-raws.org/announce
+
+http://220.130.15.30:6969/announce
+
+udp://d40969.acod.regrucolo.ru:6969/announce
+
+https://tracker.feb217.tk:443/announce
+
+https://bt.endpot.com/announce
+
+udp://wepzone.net:6969/announce
+
+http://torrent.mp3quran.net/announce.php
+
+http://irrenhaus.dyndns.dk/announce.php
+
+http://opentrackr.org:1337/announce
+
+https://tracker.lilithraws.org/announce
+
+udp://new-line.net:6969/announce
+
+udp://198.100.149.66:6969/announce
+
+udp://ryjer.com:6969/announce
+
+https://tracker.tamersunion.org/announce
+
+udp://thouvenin.cloud:6969/announce
+
+https://tracker.gbitt.info:443/announce
+
+http://unit193.net:6969/announce
+
+http://cn.pcfreetime.com:6969/announce
+
+http://bluebird-hd.org:80/announce.php
+
+udp://tracker1.itzmx.com:8080/announce
+
+udp://6ahddutb1ucc3cp.ru:6969/announce
+
+http://p4p.arenabg.com:1337/announce
 
 http://192.9.228.30:6699/announce
 
-http://167.235.245.209/announce
-
-http://tracker.openbittorrrent.com:80/announce
-
-http://1337.abcvg.info/announce+108
-
-https://carapax.net:443/announce
-
-https://voxhost.fr/announce
-
-http://alltorrents.net/bt:80/announce.php
-
-http://tracker.nyacat.pw:7000/announce
-
-http://bt.ali213.net:8000/announce
-
-https://tr.burnabyhighstar.com:443/announce
-
-http://tracker.publictorrent.net:80/announce
-
-https://carapax.net/announce
-
-http://tracker.acgnx.se/announce
-
 udp://185.181.60.67:80/announce
+
+https://xtremex.herokuapp.com:443/announce
+
+https://docker-tracker-production.up.railway.app:443/announce
+
+https://tracker.crawfish.cf:443/announce
+
+https://tracker.crawfish.cf/announce
+
+http://www.worldboxingvideoarchive.com:80/announce
+
+https://abir0dev.github.io/announce
+
+http://trun.tom.ru:80/announce
+
+http://tracker3.torrentino.com/announce
+
+http://share.camoe.cn:8080/announce
+
+http://129.146.193.240:6699/announce
 
 https://trakx.herokuapp.com/announce
 
-http://129.146.193.240:6699/announce
+http://167.235.245.209/announce
