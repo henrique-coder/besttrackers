@@ -1,11 +1,10 @@
-# IDE folders
-.idea/
-venv/
+# IDE
+.idea
+venv
 
 # Filetypes
-*.env
-*.bat
 *.py
+*.bat
 
 # Others
 requirements.txt
