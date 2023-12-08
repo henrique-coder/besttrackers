@@ -1,11 +1,12 @@
 # IDE
 .idea
-venv
+.venv
+__pycache__
 
-# Filetypes
+# Custom directories
+# ...
+
+# Custom extensions/files
 *.py
-*.bat
-
-# Others
+*.json
 requirements.txt
-last_runtime.txt
