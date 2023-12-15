@@ -8,8 +8,8 @@
 
 ### Available lists
 
-- List of all public trackers (inactive and active) ➝ [all.txt](https://raw.githubusercontent.com/Henrique-Coder/besttrackers/main/all.txt)
-- List of the best public trackers (active) ➝ [best.txt](https://raw.githubusercontent.com/Henrique-Coder/besttrackers/main/best.txt)
+- List of all public trackers (inactive and active) ➝ [all.txt](https://raw.githubusercontent.com/Henrique-Coder/besttrackers/main/all.txt) ・ [mirror-1](https://cdn.jsdelivr.net/gh/Henrique-Coder/besttrackers/all.txt)
+- List of the best public trackers (active) ➝ [best.txt](https://raw.githubusercontent.com/Henrique-Coder/besttrackers/main/best.txt) ・ [mirror-1](https://cdn.jsdelivr.net/gh/Henrique-Coder/besttrackers/best.txt)
 
 ### Notes
 
