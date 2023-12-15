@@ -900,8 +900,6 @@ https://tracker.nitrix.me:443/announce
 
 http://tracker.shittyurl.org:80/announce
 
-193.42.111.57:9337
-
 http://bt.dl1234.com/announce
 
 udp://61.216.149.33:6969/announce
