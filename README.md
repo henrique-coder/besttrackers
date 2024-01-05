@@ -13,7 +13,7 @@
 
 ### Notes
 
-- The list of trackers is automatically updated every **4** hours;
-- All trackers have a response time of **3** seconds or less;
+- The list of trackers is automatically updated every **8** hours;
+- All trackers have a response time of ~**3** seconds or less;
 - The best trackers stay at the top of the list;
 - Trackers that don't work or are too slow are removed from the list.
