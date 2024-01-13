@@ -3,10 +3,12 @@
 .venv
 __pycache__
 
-# Custom directories
-# ...
+# Directories
+.debug
 
-# Custom extensions/files
-*.py
-*.json
+# Files
 requirements.txt
+config.json
+
+# Extensions
+*.py
