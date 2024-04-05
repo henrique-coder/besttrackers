@@ -4,11 +4,11 @@
 __pycache__
 
 # Directories
+src
 .debug
 
 # Files
 requirements.txt
-config.json
 
 # Extensions
 *.py
